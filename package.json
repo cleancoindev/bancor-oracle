@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@bancor/contracts-solidity": "^0.7.0",
-    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/contracts": "^4.7.1",
     "@openzeppelin/test-helpers": "^0.5.15",
     "dotenv": "^10.0.0"
   }
