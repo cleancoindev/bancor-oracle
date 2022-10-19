@@ -9,7 +9,7 @@
     "hardhat": "^2.8.0"
   },
   "dependencies": {
-    "@bancor/contracts-solidity": "^0.7.0",
+    "@bancor/contracts-solidity": "^0.7.7",
     "@openzeppelin/contracts": "^4.4.1",
     "@openzeppelin/test-helpers": "^0.5.15",
     "dotenv": "^10.0.0"
